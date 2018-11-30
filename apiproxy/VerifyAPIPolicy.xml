@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="VerifyAPIPolicy">
+    <Basepaths>/verifyapipolicy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1543555048390</CreatedAt>
+    <CreatedBy>pm00507324@techmahindra.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>VerifyAPIPolicy</DisplayName>
+    <LastModifiedAt>1543555048390</LastModifiedAt>
+    <LastModifiedBy>pm00507324@techmahindra.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:b60c8740c06194cf0acc25bcde43569aa4b1405398a9818de00fc98bdb86ba6682e866ca0417148fa5b07bb6909f908c2333e8ae9fbb3d3c075f9595fb7825e1</ManifestVersion>
+    <Policies>
+        <Policy>Quota-Res</Policy>
+        <Policy>Verify-API-Key</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
